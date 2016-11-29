@@ -1,0 +1,15 @@
+﻿빌드 시작: 2016-11-23 오후 6:36:17
+     1>2 노드의 "H:\USB\전공\2학년\c++\2113stack\2113stack\2113stack.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 2113stack.cpp
+         2113stack.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\USB\전공\2학년\c++\2113stack\Release\2113stack.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"H:\USB\전공\2학년\c++\2113stack\Release\2113stack.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\USB\전공\2학년\c++\2113stack\Release\2113stack.lib" /MACHINE:X86 /SAFESEH Release\2113stack.obj
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+         2113stack.vcxproj -> H:\USB\전공\2학년\c++\2113stack\Release\2113stack.exe
+     1>"H:\USB\전공\2학년\c++\2113stack\2113stack\2113stack.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:01:42.09

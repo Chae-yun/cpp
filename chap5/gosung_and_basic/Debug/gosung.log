@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (gosung.vcxproj, gosung_and_if.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  int_char.cpp
+  gosung.vcxproj -> F:\USB\전공\2학년\c++\chap5\Debug\gosung_and_basic.exe

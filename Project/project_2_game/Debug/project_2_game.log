@@ -1,0 +1,10 @@
+﻿빌드 시작: 2016-11-23 오후 6:34:27
+     1>2 노드의 "H:\USB\전공\2학년\c++\Project\project_2_game\project_2_game.vcxproj" 프로젝트(Build 대상)입니다.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\USB\전공\2학년\c++\Project\Debug\project_2_game.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"H:\USB\전공\2학년\c++\Project\Debug\project_2_game.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\USB\전공\2학년\c++\Project\Debug\project_2_game.lib" /MACHINE:X86 Debug\2113stack.obj
+     1>LINK : fatal error LNK1168: H:\USB\전공\2학년\c++\Project\Debug\project_2_game.exe을(를) 쓰기용으로 열 수 없습니다.
+     1>"H:\USB\전공\2학년\c++\Project\project_2_game\project_2_game.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.29

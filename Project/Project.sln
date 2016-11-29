@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "project_1", "project_1\project_1.vcxproj", "{C4FC36DB-351F-4AA9-99C2-DE9942D6E878}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "project_2_game", "project_2_game\project_2_game.vcxproj", "{A423BEFD-91E2-458F-BA82-47556CBE6E22}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{0D5086FB-6910-4524-96DA-345EFB15D053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4FC36DB-351F-4AA9-99C2-DE9942D6E878}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4FC36DB-351F-4AA9-99C2-DE9942D6E878}.Debug|Win32.Build.0 = Debug|Win32
+		{C4FC36DB-351F-4AA9-99C2-DE9942D6E878}.Release|Win32.ActiveCfg = Debug|Win32
+		{C4FC36DB-351F-4AA9-99C2-DE9942D6E878}.Release|Win32.Build.0 = Debug|Win32
+		{A423BEFD-91E2-458F-BA82-47556CBE6E22}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A423BEFD-91E2-458F-BA82-47556CBE6E22}.Debug|Win32.Build.0 = Debug|Win32
+		{A423BEFD-91E2-458F-BA82-47556CBE6E22}.Release|Win32.ActiveCfg = Debug|Win32
+		{A423BEFD-91E2-458F-BA82-47556CBE6E22}.Release|Win32.Build.0 = Debug|Win32
+		{0D5086FB-6910-4524-96DA-345EFB15D053}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0D5086FB-6910-4524-96DA-345EFB15D053}.Debug|Win32.Build.0 = Debug|Win32
+		{0D5086FB-6910-4524-96DA-345EFB15D053}.Release|Win32.ActiveCfg = Release|Win32
+		{0D5086FB-6910-4524-96DA-345EFB15D053}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
